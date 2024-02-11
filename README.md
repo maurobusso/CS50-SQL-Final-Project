@@ -25,9 +25,6 @@ The DESIGN.md file includes an entity relationship diagram for the database.
   <img alt="ER diagram" src="cs50-sql-project.png" />
 </div>
 
-#### Video Overview
-Create a short video (that’s no more than 3 minutes in length) in which i present my project to the world.
-
 ### schema.sql
 The schema.sql file includes a set of SQL statements to define the database’s schema, annotated with brief SQL comments.
 
