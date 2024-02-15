@@ -23,7 +23,7 @@ The DESIGN.md file includes an entity relationship diagram for the database.
 
 - It has been embeded in the DESIGN.md file using the following syntax:
 
-    `![IMAGE TITLE](FILENAME)`
+    `![Entity Relationship Diagram](cs50-sql-project.png)`
 
 #### Video Overview
 Create a short video (that’s no more than 3 minutes in length) in which i present my project to the world.
