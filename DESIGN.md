@@ -134,7 +134,9 @@ This table rapresent a many to many relatioship and it consist of
 
 ### Relationships
 
-![ER Diagram](cs50-sql-project.jpg)
+<div align="center">
+  <img alt="ER diagram" src="cs50-sql-project.jpg" />
+</div>
 
 In this section, you should include your entity-relationship diagram and describe the relationships between the entities in your database.
 
