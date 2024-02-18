@@ -164,8 +164,7 @@ The last table was made to create a view of all the medical interventions ordere
 
 ## Limitations
 
-* What are the limitations of your design?
-* What might your database not be able to represent very well?
+What are the limitations of your design?, What might your database not be able to represent very well?
 
 * This database desgin assume the health care in the country is free.
 * To make this database more comprehensive, additional tables could be considered. These might include a table for all the clinics in a country and a table listing all the physicians registered in a country.
