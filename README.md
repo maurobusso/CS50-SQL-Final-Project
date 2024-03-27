@@ -1,6 +1,6 @@
 # Final Project
 
-The climax of this course is its final project. The final project was an opportunity to take my newfound skill with SQL and develop my very own database. 
+The final project for the cs50 introduction to databases with SQL was an opportunity to take my newfound skill with SQL and develop my very own database. 
 
 ## Specification
 It is composed of three files:
