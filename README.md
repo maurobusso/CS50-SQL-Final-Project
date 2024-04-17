@@ -1,6 +1,6 @@
 # Final Project
 
-The final project for the cs50 introduction to databases with SQL was an opportunity to take my newfound skill with SQL and develop my very own database. 
+The final project for the cs50 introduction to databases with SQL was an opportunity to take my newfound skill with SQL and develop my very own database. I decided to make a medical database which stores patient and the most important information regarding their medical history.
 
 ## Specification
 It is composed of three files:
